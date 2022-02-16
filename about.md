@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Alyssa Pama is a 2nd year Biochemistry major at [California Polytechnic State University in San Luis Obispo](https://chemistry.calpoly.edu/). 
 
-### More Information
+### Professional Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[apama@calpoly.edu](mailto:apama@calpoly.edu)
