@@ -4,7 +4,6 @@ title: Professional Interests
 permalink: /people/
 ---
 
-### Professional Interests
 
 **Pharmaceuticals**
 * Drug synthesis + testing
