@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interests
-permalink: /Professional Interests/
+permalink: /People/
 ---
 
 ### Professional Interests
