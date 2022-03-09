@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Professional Intersts
-permalink: /people/
+title: 
+permalink: /Professional Interests/
 ---
 
 ### Professional Interests
