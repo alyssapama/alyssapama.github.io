@@ -9,7 +9,7 @@ permalink: /pubs/
 General Chemistry Learning Assistant - [Cal Poly Department of Chemistry & Biochemistry](https://chemistry.calpoly.edu/)
 * Assisted in supervising and teaching general chemistry course
 * Educated in laboratory safety  
-* Presented laboratory presentations for students
+* Presented laboratory experiments for students
 
 
 
