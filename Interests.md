@@ -7,7 +7,7 @@ permalink: /people/
 ### Professional Interests
 
 **Pharmaceuticals**
-* Drug synthesis + Testing
+* Drug synthesis + testing
 
 **Medicine & Healthcare**
 
