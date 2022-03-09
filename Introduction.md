@@ -4,7 +4,6 @@ title: Introduction
 permalink: /about/
 ---
 
-![Alternative Text]( {{ alyssapama.github.io }}/images/IMG_6317.jpg ) 
 <img src="{{alyssapama.github.io}}/images/IMG_6317.jpg" alt="Picture of Me" width="100" 
 style="float: left; margin-top: 0px; margin-right: 10px" /> 
 
