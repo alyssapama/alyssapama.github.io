@@ -6,17 +6,17 @@ permalink: /people/
 
 ### Professional Interests
 
-Pharmaceuticals
+**Pharmaceuticals**
 * Drug synthesis + Testing
 
-Medicine & Healthcare
+**Medicine & Healthcare**
 
-Teaching
-* underserved student populations
+**Teaching**
+* Underserved student populations
 
-Public Health
-* health disparities 
-* access to care
+**Public Health**
+* Health disparities 
+* Access to care
 
 
 ### Contact me
