@@ -5,15 +5,16 @@ permalink: /people/
 ---
 
 ### Professional Interests
-- Pharmaceuticals
+
+Pharmaceuticals
 * Drug synthesis + Testing
 
-- Medicine & Healthcare
+Medicine & Healthcare
 
-- Teaching
+Teaching
 * underserved student populations
 
-- Public Health
+Public Health
 * health disparities 
 * access to care
 
